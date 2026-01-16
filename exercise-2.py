@@ -15,7 +15,6 @@ text = "Python"
 length = len(text)
 print(length)
 6
-KeyboardInterrupt
 a = 10
 b = 20
 print(max(a, b))
@@ -24,8 +23,6 @@ print("Welcome")
 Welcome
 text = "Python"
 print(text[0])
-P
-KeyboardInterrupt
 P = float(input("Enter principal amount: "))
 Enter principal amount: 1000
 R = float(input("Enter rate of interest: "))
@@ -65,4 +62,5 @@ Enter second number: 10
 sum = num1 + num2
 print("The sum of the numbers is:", sum)
 The sum of the numbers is: 15.0
+
 
