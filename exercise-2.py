@@ -11,7 +11,6 @@ for i in range(1, 6):
 text = "Python"
 length = len(text)
 print(length)
-SyntaxError: multiple statements found while compiling a single statement
 text = "Python"
 length = len(text)
 print(length)
@@ -44,8 +43,6 @@ Enter a string:
 \
 
 Enter a number: -5
-SyntaxError: invalid syntax
-KeyboardInterrupt
 num = int(input("Enter a number: "))
 Enter a number: -5
 
@@ -68,3 +65,4 @@ Enter second number: 10
 sum = num1 + num2
 print("The sum of the numbers is:", sum)
 The sum of the numbers is: 15.0
+
