@@ -14,7 +14,6 @@ y=120.50
 print("Addition:",x+y)
 Addition: 270.5
 print("subtraction:"x-y)
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
 print("subtraction:",x-y)
 subtraction: 29.5
 print("multiplication",x*y)
@@ -42,3 +41,4 @@ Area Of Square=Side*Side
 x="Perimeter Of Square=4*Side"
 print(x)
 Perimeter Of Square=4*Side
+
